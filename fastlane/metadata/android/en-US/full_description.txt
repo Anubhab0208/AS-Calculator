@@ -1,0 +1,1 @@
+<p><i>AsCalculator</i> is a cute an elegant calculator app for Android!</p>
